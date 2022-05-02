@@ -28,6 +28,11 @@ command in your terminal to install all the required packages:
 pip3 install -r requirements.txt
 ```
 
+### Development
+
+To activate `pre-commit` hooks, you should run `pre-commit install` after installing the requirements
+and activating the environment.
+
 ### Running the code
 
 Use the following commands to run the interactive notebooks:
