@@ -3,6 +3,10 @@
 This repository contains the Machine Learning code for the classification of
 [Cervical Cancer Risk](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification).
 
+<center>
+    <img src="cervical.webp">
+</center>
+
 ## Usage
 
 To interact with the notebooks and run all the codes, you need to download
