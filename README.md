@@ -40,7 +40,3 @@ Use the following commands to run the interactive notebooks:
 ```shell
 jupyter notebook
 ```
-
-## The process
-
-The steps 
